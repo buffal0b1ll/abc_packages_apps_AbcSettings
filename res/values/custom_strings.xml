@@ -489,4 +489,8 @@
     <string name="lockscreen_date_selection_default">Default</string>
     <string name="lockscreen_date_selection_str_box">Semi-transparent box</string>
     <string name="lockscreen_date_selection_str_round">Semi-transparent box (round)</string>
+
+     <!-- Volume keys control ring tone stream -->
+    <string name="volume_keys_control_ring_tone_title">Control ring volume</string>
+    <string name="volume_keys_control_ring_tone_summary">Keys control media slider by default. Enable to switch to ring tone slider.</string>
 </resources>
